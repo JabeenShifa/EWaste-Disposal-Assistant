@@ -84,6 +84,15 @@ EWaste_Disposal_Assistant/
 ```
 
 ---
+## 📸 Project Screenshots
+
+### Home Screen
+
+![Home Screen](E-Waste%20Disposal%20Assistant%20-%20ss1.png)
+
+### AI Analysis Output
+
+![Output Screen](E-Waste%20Disposal%20Assistant%20-%20ss2.png)
 
 ## 🚀 How to Run the Project
 
