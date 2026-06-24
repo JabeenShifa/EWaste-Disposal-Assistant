@@ -99,7 +99,7 @@ EWaste_Disposal_Assistant/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/EWaste-Disposal-Assistant.git
+git clone https://github.com/JabeenShifa/EWaste-Disposal-Assistant/tree/main.git
 ```
 
 ### Install Dependencies
